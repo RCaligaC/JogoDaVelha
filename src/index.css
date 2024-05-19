@@ -89,7 +89,11 @@ body {
   margin-left: 20px;
 }
   
-  .game-info {
+.game-info {
     margin-top: 28px;
     margin-left: 20px;
-  }
+}
+
+.meuGit {
+  margin-top: 15px;
+}
