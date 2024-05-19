@@ -60,7 +60,7 @@ function App({ xIsNext, squares, onPlay }) {
         <Square value={squares[8]} onSquareClick={() => handleClick(8)}/>
       </div>
       <div className="meuGit">
-        <a href="https://github.com/RCaligaC/JogoDaVelha/">Projeto no meu github =></a>
+        <a href="https://github.com/RCaligaC/JogoDaVelha/">Projeto no github=></a>
       </div>
     </div>
     </>
